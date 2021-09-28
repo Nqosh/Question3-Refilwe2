@@ -1,0 +1,7 @@
+C:\Users\CT301728\source\repos\QUESTION 3-Inheritance\QUESTION 3-Inheritance\bin\Debug\QUESTION 3-Inheritance.exe.config
+C:\Users\CT301728\source\repos\QUESTION 3-Inheritance\QUESTION 3-Inheritance\bin\Debug\QUESTION 3-Inheritance.exe
+C:\Users\CT301728\source\repos\QUESTION 3-Inheritance\QUESTION 3-Inheritance\bin\Debug\QUESTION 3-Inheritance.pdb
+C:\Users\CT301728\source\repos\QUESTION 3-Inheritance\QUESTION 3-Inheritance\obj\Debug\QUESTION 3-Inheritance.csproj.AssemblyReference.cache
+C:\Users\CT301728\source\repos\QUESTION 3-Inheritance\QUESTION 3-Inheritance\obj\Debug\QUESTION 3-Inheritance.csproj.CoreCompileInputs.cache
+C:\Users\CT301728\source\repos\QUESTION 3-Inheritance\QUESTION 3-Inheritance\obj\Debug\QUESTION 3-Inheritance.exe
+C:\Users\CT301728\source\repos\QUESTION 3-Inheritance\QUESTION 3-Inheritance\obj\Debug\QUESTION 3-Inheritance.pdb
